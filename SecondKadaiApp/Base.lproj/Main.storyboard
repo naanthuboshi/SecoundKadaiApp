@@ -19,7 +19,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="名前を入れてください" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="vaS-Mj-10o">
-                                <rect key="frame" x="88" y="395" width="199" height="20"/>
+                                <rect key="frame" x="101.00000000000001" y="395" width="173.33333333333337" height="20"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
@@ -45,7 +45,6 @@
                             <constraint firstItem="Xdl-0c-1Po" firstAttribute="top" secondItem="nSB-pd-HPp" secondAttribute="bottom" constant="100" id="SsT-Ht-jfO"/>
                             <constraint firstItem="nSB-pd-HPp" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="T4Y-Mb-fr2"/>
                             <constraint firstItem="vaS-Mj-10o" firstAttribute="top" secondItem="Xdl-0c-1Po" secondAttribute="bottom" constant="11" id="TSE-Wf-oz8"/>
-                            <constraint firstItem="vaS-Mj-10o" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="88" id="U9t-UA-ckC"/>
                             <constraint firstItem="Xdl-0c-1Po" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="W86-H0-0hR"/>
                             <constraint firstItem="Xdl-0c-1Po" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" constant="158" id="eFH-cN-whD"/>
                             <constraint firstItem="vaS-Mj-10o" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="wOA-j1-tRK"/>
